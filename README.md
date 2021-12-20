@@ -31,3 +31,5 @@ Here are some ideas to get you started:
 -->
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=Ridvanks01&show_icons=true&theme=radical)
+
+<img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ridvanks01&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="mukireus"/>
