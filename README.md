@@ -34,4 +34,4 @@ Here are some ideas to get you started:
 <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ridvanks01&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia" alt="mukireus"/>
   
   
-![](https://komarev.com/ghpvc/?username=Ridvanks01)
+![](https://komarev.com/ghpvc/?username=Ridvanks01&color=brightgreen)
