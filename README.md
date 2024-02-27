@@ -18,15 +18,10 @@ Here are some ideas to get you started:
 <a href="https://github.com/Ridvanks01/optimesh">
   <img src="https://camo.githubusercontent.com/b4241ab761411d6ea402319f792385159ad1dce1d71a90fda8957332145a2e0f/68747470733a2f2f6e7363686c6f652e6769746875622e696f2f6f7074696d6573682f6376742d756e69666f726d2d716e662e77656270" align="right" width="20%" data-canonical-src="https://nschloe.github.io/optimesh/cvt-uniform-qnf.webp" style="max-width: 100%;">
 </a>
-
-## Find Me On
-
- <a href="mailto: karasubasiridvan@gmail.com"> <img src="https://camo.githubusercontent.com/7a636997757a6b8fec8abc095b48cb88dafbf47318c709d81a5b563dae1c84e1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d2532334242303031422e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465"></a>
  
- 
-<!--  ## My Contribution Graph
-![snake gif](https://github.com/Ridvanks01/Ridvanks01/blob/output/github-contribution-grid-snake.gif)
--->
+## My Contribution Graph
+[snake gif](https://github.com/Ridvanks01/Ridvanks01/blob/output/github-contribution-grid-snake.gif)
+
 <!--  
 ## My Statistics
 <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=Ridvanks01&show_icons=true&locale=en&theme=algolia&include_all_commits=true&count_private=true" alt="mukireus"/>
